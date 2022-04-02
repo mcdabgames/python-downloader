@@ -11,6 +11,7 @@ def download_file(url):
     filename = os.path.basename(url)
     # stream url data
     with requests.get(url, stream=True) as req:
+        # raise http error if exists
         req.raise_for_status()
         # try to open the file name, catch any exceptions for incorrect
         # filename, this is likely due to the url ending in `/` or not a direct file download

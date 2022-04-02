@@ -1,4 +1,1 @@
-https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe
-https://www.eveonline.com/EveLauncher-2023444.exe
-https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1900/
-https://www.dropbox.com/s/w2nd9g0ke8wxyxa/plugins.rar?dl=0
+https://gcdn.thunderstore.io/live/repository/packages/denikson-BepInExPack_Valheim-5.4.1900.zip
